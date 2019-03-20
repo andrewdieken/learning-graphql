@@ -4,6 +4,7 @@
 
 #### References
 - https://www.howtographql.com/graphql-ruby/0-introduction/
+- https://graphql-ruby.org/fields/introduction.html
 - https://medium.com/@UnicornAgency/you-should-be-using-graphql-a-ruby-introduction-9b1de3b001dd
 - https://medium.com/shakuro/building-apis-with-graphql-and-ruby-on-rails-dbcc2e00bd99
 
