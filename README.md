@@ -2,6 +2,11 @@
 
 ## GraphQL Install Instructions
 
+#### References
+- https://www.howtographql.com/graphql-ruby/0-introduction/
+- https://medium.com/@UnicornAgency/you-should-be-using-graphql-a-ruby-introduction-9b1de3b001dd
+- https://medium.com/shakuro/building-apis-with-graphql-and-ruby-on-rails-dbcc2e00bd99
+
 #### Step 1: add gems
 - Add the `graphql` to your  `Gemfile`
 ```ruby
