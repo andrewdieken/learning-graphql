@@ -3,6 +3,7 @@
 ## GraphQL Install Instructions
 
 #### References
+- https://medium.com/@taylorwu/learning-graphql-with-rails-5f44b1aac0db
 - https://www.howtographql.com/graphql-ruby/0-introduction/
 - https://graphql-ruby.org/fields/introduction.html
 - https://medium.com/@UnicornAgency/you-should-be-using-graphql-a-ruby-introduction-9b1de3b001dd
